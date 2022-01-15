@@ -329,7 +329,7 @@ while run:
         if winner == 0:
             #move racket
             player_racket.move()
-            comp_racket.ia()#IO
+            comp_racket.ia()
             #draw ball
             pong_ball.draw()
 
