@@ -1,7 +1,7 @@
 # Pong-Dany-Allan
 Projet Licence 1 MDLP 
 
-#Objectif 
+# Objectif 
 
 Notre projet est un pong ou l'on doit jouer contre un ordi (une ia).
 
